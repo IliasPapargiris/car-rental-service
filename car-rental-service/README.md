@@ -45,7 +45,7 @@ This is a Car Rental Service application that calculates trip expenses based on:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-repository-url.git
+    git clone https://github.com/IliasPapargiris/car-rental-service.git
     ```
 
 2. **Build the project:**
